@@ -1,4 +1,11 @@
 {
+  "engines": {
+    "node": "0.10.22"
+  },
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.6"
+  },
   "name": "angularjs-seed",
   "description": "A starter project for AngularJS",
   "repository": "https://github.com/angular/angular-seed",
